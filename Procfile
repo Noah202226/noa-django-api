@@ -1,0 +1,1 @@
+web: gunicorn noa_django_api.wsgi
